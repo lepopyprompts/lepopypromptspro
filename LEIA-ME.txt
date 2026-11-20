@@ -1,0 +1,9 @@
+Estrutura:
+index.html     -> página (só a estrutura)
+css/estilo.css -> visual
+js/app.js      -> lógica da loja e do painel
+dados/config.js-> categorias, preços, links, textos (o painel gera este arquivo)
+imagens/       -> logo.jpg e capas dos produtos
+
+Atualizar o site: no painel (#admin) > Publicar e backup > Baixar configurações,
+e envie o config.js para a pasta dados no GitHub.
